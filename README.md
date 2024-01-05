@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ignasius Maret Ismoyo from Indonesia
 - 👀 I’m interested in UI/UX, Data Analysis, Web Design, Graphic Design and also AI.
-- 🌱 I’m currently learning in Universitas Budi Luhur Jakarta (Informatics Engineering) and Orbit Future Academy
+- 🌱 I’m IT Freshgraduate from Universitas Budi Luhur Jakarta (Informatics Engineering)
 - 📫 How to reach me: maretismoyo@gmail.com || Linkedin: https://www.linkedin.com/in/maret-ismoyo/
